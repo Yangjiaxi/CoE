@@ -1,0 +1,14 @@
+{
+  "coding": {
+    "tulu_coding": "data/processed/tulu-tagged/coding-32580.jsonl",
+    "code_alpaca": "data/processed/code_alpaca-20016.jsonl",
+    "oss_instruct": "data/processed/ossinstruct-full-75197.jsonl"
+  },
+  "general_growth": {
+    "tulu_g.growth": "data/processed/tulu-tagged/g.growth-56249.jsonl"
+  },
+  "math": {
+    "tulu_math": "data/processed/tulu-tagged/math-13645.jsonl",
+    "mammoth_cot_no_aqua": "data/processed/mammoth/cot-no_aqua-99143.jsonl"
+  }
+}
