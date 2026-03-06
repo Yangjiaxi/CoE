@@ -1,4 +1,4 @@
-# Sewing-MoE: Code Release
+# (AAAI 2025) Fine-tuning language models with collaborative and semantic experts
 
 This repository contains the code for training domain-specific Mixture-of-Experts (MoE) models via a "sewing" pipeline: train experts on domain data with FFN-only updates, stitch them into an MoE, then finetune the complement (non-FFN) on full data.
 
